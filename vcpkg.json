@@ -1,0 +1,7 @@
+{
+    "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg/master/scripts/vcpkg.schema.json",
+    "name": "firebase",
+    "version": "7.3.0",
+    "description": "Firebase C++ SDK",
+    "homepage": "https://github.com/bibinsyamnath/firebase-cpp-sdk"
+}
